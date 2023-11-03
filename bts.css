@@ -1,0 +1,64 @@
+<style>
+    ul, li{list-style-type: none;}
+    @font-face {
+        font-family: 'TheJamsil5Bold';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2') format('woff2');
+        font-weight: 800;
+        font-style: normal;
+    };
+    *{margin: 0px;}
+    .box1{width: 1920px; height: 1200px;background:url("img/xd/BTS_07.png");}
+    .box2{width: 1920px;height: 950px;background:url(./img/xd/img2/2.png) ;}
+        .inbox01 ul li:nth-child(1)
+          {font-family: 'TheJamsil5Bold';
+            font-size:50px;
+            margin-top:87px;
+            margin-left:117px}
+        .inbox01 ul li:nth-child(2)
+            {margin-top:130px;
+             margin-left:292px;}
+        .inbox01 ul li:nth-child(3)
+          {font-family: 'TheJamsil5Bold';
+            font-size:20px;
+            margin-top:198px;
+            margin-left:302px
+            }
+        .inbox01{float:left;color:#fff;width:100%; position: relative;}
+        .inbox01{margin-left: 259px;}
+        .inbox01 ul{display:inline-block;list-style:none; position:absolute;}   
+    .box3{
+        width: 1920px;
+        height: 1080px;
+        background :url(img/xd/img2/3.png);
+        position: relative;  
+        }
+        .inbox02{margin-left: 332px; margin-top: 207px; position: absolute;}
+        .inbox03{margin-left: 745px; margin-top: 225px; position: absolute;}
+        .inbox04{margin-left: 745px; margin-top: 775px; position: absolute;
+                 font-family:'TheJamsil5Bold';
+                 font-size:15px;
+                 color: #fff;
+                 line-height:23px }
+    .box4{width: 1920px;height: 1080px; background-color: black;}
+        .inbox05{margin-top: 177px;position: absolute}
+        .inbox06{
+            font-family:'TheJamsil5Bold';
+            font-size: 13px;
+            color: #fff;
+            margin-top: 843px;
+            margin-left: 1222px;
+            position: absolute}
+    .box5{width: 1920px;height: 1080px; background-color: black;}
+        .inbox07{padding-top: 110px;margin-left: 244px;position:relative;}
+        .inbox07 ul{
+                    letter-spacing :-0.5px;
+                    position: absolute;
+                    top: 15%;
+                    right: 15.5%;
+                    font-family:'TheJamsil5Bold';
+                    font-size: 13px;
+                    color: #fff;
+                    line-height:22px;}
+    .box6{width: 1920px;height: 1080px; background : url(img/xd/6.png);}
+
+</style>
